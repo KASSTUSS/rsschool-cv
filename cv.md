@@ -30,3 +30,20 @@ I know how to work in a team. I am not discouraged by the problem, but I try to 
 * Adobe Photoshop, Figma
 
 *****
+
+### Code example
+
+```
+function toCamelCase(str){
+  const wordList = str.split(/-|_/)
+  let outStr = wordList[0]
+  
+  wordList.slice(1).forEach((word) => {
+    outStr += word[0].toUpperCase() + word.slice(1)
+  })
+  
+  return outStr
+}
+```
+
+*****
