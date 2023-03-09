@@ -57,3 +57,8 @@ function toCamelCase(str){
 
 *****
 
+### Languages
+
+* English - A2 (B1 in progress...)
+* Russian - Native
+* Belarusian - Native
