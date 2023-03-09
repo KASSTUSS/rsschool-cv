@@ -50,7 +50,7 @@ function toCamelCase(str){
 
 ### Education
 
-* **University:** Francisk Skorina Gomel State University
+* **University:** Francisk Skorina Gomel State University (Programmable mobile systems)
 * **Cources:**
     * [Junior Computer Academy](https://gomel.itstep.by/malaya-kompyuternaya-akademiya/)
     * [RS Schools Course «JavaScript/Front-end.»](https://rs.school/js/) (in progress)
