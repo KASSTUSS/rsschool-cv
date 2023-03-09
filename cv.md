@@ -1,15 +1,18 @@
-# Chvalov Kastus
+# Kastus Chvalov
+
+#### JUNIOR FRONTEND DEVELOPER | STUDENT
 
 *****
 
 ### Contacts
 
-**Phone:** +375 44 123-45-67  
-**Email:** work.kastus@gmail.com  
-**Telegram:** @kostya03  
-**GitHub:** [KASSTUSS](https://github.com/KASSTUSS)  
-**CodePen:** [KASSTUSS](https://codepen.io/KASSTUSS)  
-**LinkedIn:** [kastus-chvalov](https://www.linkedin.com/in/kastus-chvalov-3255a6269/)  
+* **Location:** Gomel, Belarus
+* **Phone:** +375 44 123-45-67  
+* **Email:** work.kastus@gmail.com  
+* **Telegram:** @kostya03  
+* **GitHub:** [KASSTUSS](https://github.com/KASSTUSS)  
+* **CodePen:** [KASSTUSS](https://codepen.io/KASSTUSS)  
+* **LinkedIn:** [kastus-chvalov](https://www.linkedin.com/in/kastus-chvalov-3255a6269/)  
 
 *****
 
@@ -50,7 +53,7 @@ function toCamelCase(str){
 
 ### Education
 
-* **University:** Francisk Skorina Gomel State University (Programmable mobile systems)
+* **University:** Francisk Skorina Gomel State University (Programmable mobile systems) (in progress)
 * **Cources:**
     * [Junior Computer Academy](https://gomel.itstep.by/malaya-kompyuternaya-akademiya/)
     * [RS Schools Course «JavaScript/Front-end.»](https://rs.school/js/) (in progress)
